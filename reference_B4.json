@@ -1,0 +1,1180 @@
+{
+  "categories": [
+    {
+      "strCategory": "Beef"
+    },
+    {
+      "strCategory": "Breakfast"
+    },
+    {
+      "strCategory": "Chicken"
+    },
+    {
+      "strCategory": "Dessert"
+    },
+    {
+      "strCategory": "Goat"
+    },
+    {
+      "strCategory": "Lamb"
+    },
+    {
+      "strCategory": "Miscellaneous"
+    },
+    {
+      "strCategory": "Pasta"
+    },
+    {
+      "strCategory": "Pork"
+    },
+    {
+      "strCategory": "Seafood"
+    },
+    {
+      "strCategory": "Side"
+    },
+    {
+      "strCategory": "Starter"
+    },
+    {
+      "strCategory": "Vegan"
+    },
+    {
+      "strCategory": "Vegetarian"
+    }
+  ],
+  "areas": [
+    {
+      "strArea": "Afghan",
+      "strCountry": "Afghanistan"
+    },
+    {
+      "strArea": "Albanian",
+      "strCountry": "Albania"
+    },
+    {
+      "strArea": "Algerian",
+      "strCountry": "Algeria"
+    },
+    {
+      "strArea": "Andorran",
+      "strCountry": "Andorra"
+    },
+    {
+      "strArea": "Angolan",
+      "strCountry": "Angola"
+    },
+    {
+      "strArea": "Antiguan, Barbudan",
+      "strCountry": "Antigua and Barbuda"
+    },
+    {
+      "strArea": "Argentine",
+      "strCountry": "Argentina"
+    },
+    {
+      "strArea": "Armenian",
+      "strCountry": "Armenia"
+    },
+    {
+      "strArea": "Aruban",
+      "strCountry": "Aruba"
+    },
+    {
+      "strArea": "Australian",
+      "strCountry": "Australia"
+    },
+    {
+      "strArea": "Austrian",
+      "strCountry": "Austria"
+    },
+    {
+      "strArea": "Azerbaijani",
+      "strCountry": "Azerbaijan"
+    },
+    {
+      "strArea": "Bahamian",
+      "strCountry": "Bahamas"
+    },
+    {
+      "strArea": "Bahraini",
+      "strCountry": "Bahrain"
+    },
+    {
+      "strArea": "Bangladeshi",
+      "strCountry": "Bangladesh"
+    },
+    {
+      "strArea": "Barbadian",
+      "strCountry": "Barbados"
+    },
+    {
+      "strArea": "Belarusian",
+      "strCountry": "Belarus"
+    },
+    {
+      "strArea": "Belgian",
+      "strCountry": "Belgium"
+    },
+    {
+      "strArea": "Belizean",
+      "strCountry": "Belize"
+    },
+    {
+      "strArea": "Beninese",
+      "strCountry": "Benin"
+    },
+    {
+      "strArea": "Bermudian",
+      "strCountry": "Bermuda"
+    },
+    {
+      "strArea": "Bhutanese",
+      "strCountry": "Bhutan"
+    },
+    {
+      "strArea": "Bolivian",
+      "strCountry": "Bolivia"
+    },
+    {
+      "strArea": "Bosnian, Herzegovinian",
+      "strCountry": "Bosnia and Herzegovina"
+    },
+    {
+      "strArea": "Motswana",
+      "strCountry": "Botswana"
+    },
+    {
+      "strArea": "Brazilian",
+      "strCountry": "Brazil"
+    },
+    {
+      "strArea": "Bruneian",
+      "strCountry": "Brunei"
+    },
+    {
+      "strArea": "Bulgarian",
+      "strCountry": "Bulgaria"
+    },
+    {
+      "strArea": "Burkinabe",
+      "strCountry": "Burkina Faso"
+    },
+    {
+      "strArea": "Burundian",
+      "strCountry": "Burundi"
+    },
+    {
+      "strArea": "Cambodian",
+      "strCountry": "Cambodia"
+    },
+    {
+      "strArea": "Cameroonian",
+      "strCountry": "Cameroon"
+    },
+    {
+      "strArea": "Canadian",
+      "strCountry": "Canada"
+    },
+    {
+      "strArea": "Cape Verdian",
+      "strCountry": "Cape Verde"
+    },
+    {
+      "strArea": "Caymanian",
+      "strCountry": "Cayman Islands"
+    },
+    {
+      "strArea": "Central African",
+      "strCountry": "Central African Republic"
+    },
+    {
+      "strArea": "Chadian",
+      "strCountry": "Chad"
+    },
+    {
+      "strArea": "Chilean",
+      "strCountry": "Chile"
+    },
+    {
+      "strArea": "Chinese",
+      "strCountry": "China"
+    },
+    {
+      "strArea": "Colombian",
+      "strCountry": "Colombia"
+    },
+    {
+      "strArea": "Costa Rican",
+      "strCountry": "Costa Rica"
+    },
+    {
+      "strArea": "Croatian",
+      "strCountry": "Croatia"
+    },
+    {
+      "strArea": "Cuban",
+      "strCountry": "Cuba"
+    },
+    {
+      "strArea": "Cypriot",
+      "strCountry": "Cyprus"
+    },
+    {
+      "strArea": "Czech",
+      "strCountry": "Czechia"
+    },
+    {
+      "strArea": "Danish",
+      "strCountry": "Denmark"
+    },
+    {
+      "strArea": "Djibouti",
+      "strCountry": "Djibouti"
+    },
+    {
+      "strArea": "Dominican",
+      "strCountry": "Dominica"
+    },
+    {
+      "strArea": "Dominican",
+      "strCountry": "Dominican Republic"
+    },
+    {
+      "strArea": "Congolese",
+      "strCountry": "DR Congo"
+    },
+    {
+      "strArea": "Ecuadorean",
+      "strCountry": "Ecuador"
+    },
+    {
+      "strArea": "Egyptian",
+      "strCountry": "Egypt"
+    },
+    {
+      "strArea": "Salvadoran",
+      "strCountry": "El Salvador"
+    },
+    {
+      "strArea": "Equatorial Guinean",
+      "strCountry": "Equatorial Guinea"
+    },
+    {
+      "strArea": "Eritrean",
+      "strCountry": "Eritrea"
+    },
+    {
+      "strArea": "Estonian",
+      "strCountry": "Estonia"
+    },
+    {
+      "strArea": "Ethiopian",
+      "strCountry": "Ethiopia"
+    },
+    {
+      "strArea": "Faroese",
+      "strCountry": "Faroe Islands"
+    },
+    {
+      "strArea": "Fijian",
+      "strCountry": "Fiji"
+    },
+    {
+      "strArea": "Finnish",
+      "strCountry": "Finland"
+    },
+    {
+      "strArea": "French",
+      "strCountry": "France"
+    },
+    {
+      "strArea": "Gabonese",
+      "strCountry": "Gabon"
+    },
+    {
+      "strArea": "Gambian",
+      "strCountry": "Gambia"
+    },
+    {
+      "strArea": "Georgian",
+      "strCountry": "Georgia"
+    },
+    {
+      "strArea": "German",
+      "strCountry": "Germany"
+    },
+    {
+      "strArea": "Ghanaian",
+      "strCountry": "Ghana"
+    },
+    {
+      "strArea": "Gibraltar",
+      "strCountry": "Gibraltar"
+    },
+    {
+      "strArea": "Greek",
+      "strCountry": "Greece"
+    },
+    {
+      "strArea": "Greenlandic",
+      "strCountry": "Greenland"
+    },
+    {
+      "strArea": "Grenadian",
+      "strCountry": "Grenada"
+    },
+    {
+      "strArea": "Guadeloupian",
+      "strCountry": "Guadeloupe"
+    },
+    {
+      "strArea": "Guamanian",
+      "strCountry": "Guam"
+    },
+    {
+      "strArea": "Guatemalan",
+      "strCountry": "Guatemala"
+    },
+    {
+      "strArea": "Channel Islander",
+      "strCountry": "Guernsey"
+    },
+    {
+      "strArea": "Guinean",
+      "strCountry": "Guinea"
+    },
+    {
+      "strArea": "Guinea-Bissauan",
+      "strCountry": "Guinea-Bissau"
+    },
+    {
+      "strArea": "Guyanese",
+      "strCountry": "Guyana"
+    },
+    {
+      "strArea": "Haitian",
+      "strCountry": "Haiti"
+    },
+    {
+      "strArea": "Honduran",
+      "strCountry": "Honduras"
+    },
+    {
+      "strArea": "Hong Konger",
+      "strCountry": "Hong Kong"
+    },
+    {
+      "strArea": "Hungarian",
+      "strCountry": "Hungary"
+    },
+    {
+      "strArea": "Icelander",
+      "strCountry": "Iceland"
+    },
+    {
+      "strArea": "Indian",
+      "strCountry": "India"
+    },
+    {
+      "strArea": "Indonesian",
+      "strCountry": "Indonesia"
+    },
+    {
+      "strArea": "Iranian",
+      "strCountry": "Iran"
+    },
+    {
+      "strArea": "Iraqi",
+      "strCountry": "Iraq"
+    },
+    {
+      "strArea": "Irish",
+      "strCountry": "Ireland"
+    },
+    {
+      "strArea": "Israeli",
+      "strCountry": "Israel"
+    },
+    {
+      "strArea": "Italian",
+      "strCountry": "Italy"
+    },
+    {
+      "strArea": "Ivorian",
+      "strCountry": "Ivory Coast"
+    },
+    {
+      "strArea": "Jamaican",
+      "strCountry": "Jamaica"
+    },
+    {
+      "strArea": "Japanese",
+      "strCountry": "Japan"
+    },
+    {
+      "strArea": "Channel Islander",
+      "strCountry": "Jersey"
+    },
+    {
+      "strArea": "Jordanian",
+      "strCountry": "Jordan"
+    },
+    {
+      "strArea": "Kazakhstani",
+      "strCountry": "Kazakhstan"
+    },
+    {
+      "strArea": "Kenyan",
+      "strCountry": "Kenya"
+    },
+    {
+      "strArea": "Kosovar",
+      "strCountry": "Kosovo"
+    },
+    {
+      "strArea": "Kuwaiti",
+      "strCountry": "Kuwait"
+    },
+    {
+      "strArea": "Kirghiz",
+      "strCountry": "Kyrgyzstan"
+    },
+    {
+      "strArea": "Laotian",
+      "strCountry": "Laos"
+    },
+    {
+      "strArea": "Latvian",
+      "strCountry": "Latvia"
+    },
+    {
+      "strArea": "Lebanese",
+      "strCountry": "Lebanon"
+    },
+    {
+      "strArea": "Mosotho",
+      "strCountry": "Lesotho"
+    },
+    {
+      "strArea": "Liberian",
+      "strCountry": "Liberia"
+    },
+    {
+      "strArea": "Libyan",
+      "strCountry": "Libya"
+    },
+    {
+      "strArea": "Liechtensteiner",
+      "strCountry": "Liechtenstein"
+    },
+    {
+      "strArea": "Lithuanian",
+      "strCountry": "Lithuania"
+    },
+    {
+      "strArea": "Luxembourger",
+      "strCountry": "Luxembourg"
+    },
+    {
+      "strArea": "Malagasy",
+      "strCountry": "Madagascar"
+    },
+    {
+      "strArea": "Malawian",
+      "strCountry": "Malawi"
+    },
+    {
+      "strArea": "Malaysian",
+      "strCountry": "Malaysia"
+    },
+    {
+      "strArea": "Maldivan",
+      "strCountry": "Maldives"
+    },
+    {
+      "strArea": "Malian",
+      "strCountry": "Mali"
+    },
+    {
+      "strArea": "Maltese",
+      "strCountry": "Malta"
+    },
+    {
+      "strArea": "Mauritian",
+      "strCountry": "Mauritius"
+    },
+    {
+      "strArea": "Mexican",
+      "strCountry": "Mexico"
+    },
+    {
+      "strArea": "Moldovan",
+      "strCountry": "Moldova"
+    },
+    {
+      "strArea": "Mongolian",
+      "strCountry": "Mongolia"
+    },
+    {
+      "strArea": "Montenegrin",
+      "strCountry": "Montenegro"
+    },
+    {
+      "strArea": "Moroccan",
+      "strCountry": "Morocco"
+    },
+    {
+      "strArea": "Mozambican",
+      "strCountry": "Mozambique"
+    },
+    {
+      "strArea": "Burmese",
+      "strCountry": "Myanmar"
+    },
+    {
+      "strArea": "Namibian",
+      "strCountry": "Namibia"
+    },
+    {
+      "strArea": "Nepalese",
+      "strCountry": "Nepal"
+    },
+    {
+      "strArea": "Dutch",
+      "strCountry": "Netherlands"
+    },
+    {
+      "strArea": "New Zealander",
+      "strCountry": "New Zealand"
+    },
+    {
+      "strArea": "Nicaraguan",
+      "strCountry": "Nicaragua"
+    },
+    {
+      "strArea": "Nigerien",
+      "strCountry": "Niger"
+    },
+    {
+      "strArea": "Nigerian",
+      "strCountry": "Nigeria"
+    },
+    {
+      "strArea": "North Korean",
+      "strCountry": "North Korea"
+    },
+    {
+      "strArea": "Macedonian",
+      "strCountry": "North Macedonia"
+    },
+    {
+      "strArea": "Norwegian",
+      "strCountry": "Norway"
+    },
+    {
+      "strArea": "Omani",
+      "strCountry": "Oman"
+    },
+    {
+      "strArea": "Pakistani",
+      "strCountry": "Pakistan"
+    },
+    {
+      "strArea": "Palestinian",
+      "strCountry": "Palestine"
+    },
+    {
+      "strArea": "Panamanian",
+      "strCountry": "Panama"
+    },
+    {
+      "strArea": "Papua New Guinean",
+      "strCountry": "Papua New Guinea"
+    },
+    {
+      "strArea": "Paraguayan",
+      "strCountry": "Paraguay"
+    },
+    {
+      "strArea": "Peruvian",
+      "strCountry": "Peru"
+    },
+    {
+      "strArea": "Filipino",
+      "strCountry": "Philippines"
+    },
+    {
+      "strArea": "Polish",
+      "strCountry": "Poland"
+    },
+    {
+      "strArea": "Portuguese",
+      "strCountry": "Portugal"
+    },
+    {
+      "strArea": "Puerto Rican",
+      "strCountry": "Puerto Rico"
+    },
+    {
+      "strArea": "Qatari",
+      "strCountry": "Qatar"
+    },
+    {
+      "strArea": "Congolese",
+      "strCountry": "Republic of the Congo"
+    },
+    {
+      "strArea": "Romanian",
+      "strCountry": "Romania"
+    },
+    {
+      "strArea": "Russian",
+      "strCountry": "Russia"
+    },
+    {
+      "strArea": "Rwandan",
+      "strCountry": "Rwanda"
+    },
+    {
+      "strArea": "Saint Lucian",
+      "strCountry": "Saint Lucia"
+    },
+    {
+      "strArea": "Samoan",
+      "strCountry": "Samoa"
+    },
+    {
+      "strArea": "Sammarinese",
+      "strCountry": "San Marino"
+    },
+    {
+      "strArea": "Saudi Arabian",
+      "strCountry": "Saudi Arabia"
+    },
+    {
+      "strArea": "Senegalese",
+      "strCountry": "Senegal"
+    },
+    {
+      "strArea": "Serbian",
+      "strCountry": "Serbia"
+    },
+    {
+      "strArea": "Seychellois",
+      "strCountry": "Seychelles"
+    },
+    {
+      "strArea": "Sierra Leonean",
+      "strCountry": "Sierra Leone"
+    },
+    {
+      "strArea": "Singaporean",
+      "strCountry": "Singapore"
+    },
+    {
+      "strArea": "Slovak",
+      "strCountry": "Slovakia"
+    },
+    {
+      "strArea": "Slovene",
+      "strCountry": "Slovenia"
+    },
+    {
+      "strArea": "Solomon Islander",
+      "strCountry": "Solomon Islands"
+    },
+    {
+      "strArea": "Somali",
+      "strCountry": "Somalia"
+    },
+    {
+      "strArea": "South African",
+      "strCountry": "South Africa"
+    },
+    {
+      "strArea": "South Korean",
+      "strCountry": "South Korea"
+    },
+    {
+      "strArea": "South Sudanese",
+      "strCountry": "South Sudan"
+    },
+    {
+      "strArea": "Spanish",
+      "strCountry": "Spain"
+    },
+    {
+      "strArea": "Sri Lankan",
+      "strCountry": "Sri Lanka"
+    },
+    {
+      "strArea": "Sudanese",
+      "strCountry": "Sudan"
+    },
+    {
+      "strArea": "Surinamer",
+      "strCountry": "Suriname"
+    },
+    {
+      "strArea": "Swedish",
+      "strCountry": "Sweden"
+    },
+    {
+      "strArea": "Swiss",
+      "strCountry": "Switzerland"
+    },
+    {
+      "strArea": "Syrian",
+      "strCountry": "Syria"
+    },
+    {
+      "strArea": "Taiwanese",
+      "strCountry": "Taiwan"
+    },
+    {
+      "strArea": "Tadzhik",
+      "strCountry": "Tajikistan"
+    },
+    {
+      "strArea": "Tanzanian",
+      "strCountry": "Tanzania"
+    },
+    {
+      "strArea": "Thai",
+      "strCountry": "Thailand"
+    },
+    {
+      "strArea": "Togolese",
+      "strCountry": "Togo"
+    },
+    {
+      "strArea": "Tongan",
+      "strCountry": "Tonga"
+    },
+    {
+      "strArea": "Trinidadian",
+      "strCountry": "Trinidad and Tobago"
+    },
+    {
+      "strArea": "Tunisian",
+      "strCountry": "Tunisia"
+    },
+    {
+      "strArea": "Turkish",
+      "strCountry": "Turkey"
+    },
+    {
+      "strArea": "Turkmen",
+      "strCountry": "Turkmenistan"
+    },
+    {
+      "strArea": "Tuvaluan",
+      "strCountry": "Tuvalu"
+    },
+    {
+      "strArea": "Ugandan",
+      "strCountry": "Uganda"
+    },
+    {
+      "strArea": "Ukrainian",
+      "strCountry": "Ukraine"
+    },
+    {
+      "strArea": "Emirati",
+      "strCountry": "United Arab Emirates"
+    },
+    {
+      "strArea": "British",
+      "strCountry": "United Kingdom"
+    },
+    {
+      "strArea": "American",
+      "strCountry": "United States"
+    },
+    {
+      "strArea": "Uruguayan",
+      "strCountry": "Uruguay"
+    },
+    {
+      "strArea": "Uzbekistani",
+      "strCountry": "Uzbekistan"
+    },
+    {
+      "strArea": "Ni-Vanuatu",
+      "strCountry": "Vanuatu"
+    },
+    {
+      "strArea": "Venezuelan",
+      "strCountry": "Venezuela"
+    },
+    {
+      "strArea": "Vietnamese",
+      "strCountry": "Vietnam"
+    },
+    {
+      "strArea": "Yemeni",
+      "strCountry": "Yemen"
+    },
+    {
+      "strArea": "Zambian",
+      "strCountry": "Zambia"
+    },
+    {
+      "strArea": "Zimbabwean",
+      "strCountry": "Zimbabwe"
+    }
+  ],
+  "ingredients": [
+    {
+      "idIngredient": "1",
+      "strIngredient": "Chicken",
+      "strDescription": "The chicken is a type of domesticated fowl, a subspecies of the red junglefowl (Gallus gallus). It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011. There are more chickens in the world than any other bird or domesticated fowl. Humans keep chickens primarily as a source of food (consuming both their meat and eggs) and, less commonly, as pets. Originally raised for cockfighting or for special ceremonies, chickens were not kept for food until the Hellenistic period (4th\u20132nd centuries BC).\r\n\r\nGenetic studies have pointed to multiple maternal origins in South Asia, Southeast Asia, and East Asia, but with the clade found in the Americas, Europe, the Middle East and Africa originating in the Indian subcontinent. From ancient India, the domesticated chicken spread to Lydia in western Asia Minor, and to Greece by the 5th century BC. Fowl had been known in Egypt since the mid-15th century BC, with the \"bird that gives birth every day\" having come to Egypt from the land between Syria and Shinar, Babylonia, according to the annals of Thutmose III.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/chicken.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "2",
+      "strIngredient": "Salmon",
+      "strDescription": "Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively farmed in many parts of the world.\r\n\r\nTypically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce. However, populations of several species are restricted to fresh water through their lives. Folklore has it that the fish return to the exact spot where they hatched to spawn. Tracking studies have shown this to be mostly true. A portion of a returning salmon run may stray and spawn in different freshwater systems; the percent of straying depends on the species of salmon. Homing behavior has been shown to depend on olfactory memory. Salmon date back to the Neogene.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/salmon.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "3",
+      "strIngredient": "Beef",
+      "strDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.\r\n\r\nMost beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/beef.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "4",
+      "strIngredient": "Pork",
+      "strDescription": "Pork is the culinary name for the flesh of a domestic pig (Sus scrofa domesticus). It is the most commonly consumed meat worldwide,[1] with evidence of pig husbandry dating back to 5000 BC.\r\n\r\nPork is eaten both freshly cooked and preserved. Curing extends the shelf life of the pork products. Ham, smoked pork, gammon, bacon and sausage are examples of preserved pork. Charcuterie is the branch of cooking devoted to prepared meat products, many from pork.\r\n\r\nPig is the most popular meat in the Eastern and non-Muslim parts of Southeastern Asia (Indochina, Philippines, Singapore, East Timor) and is also very common in the Western world, especially in Central Europe. It is highly prized in Asian cuisines for its fat content and pleasant texture. Consumption of pork is forbidden by Jewish, Muslim and Rastafarian dietary law, for religious reasons, with several suggested possible causes.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/pork.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "5",
+      "strIngredient": "Avocado",
+      "strDescription": "The avocado, a tree with probable origin in South Central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.\r\n\r\nAvocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world. They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain predictable fruit quality and quantity. In 2017, Mexico produced 34% of the world supply of avocados.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/avocado.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "9",
+      "strIngredient": "Apple Cider Vinegar",
+      "strDescription": "Apple cider vinegar, or cider vinegar, is a vinegar made from fermented apple juice, and used in salad dressings, marinades, vinaigrettes, food preservatives, and chutneys. It is made by crushing apples, then squeezing out the juice. Bacteria and yeast are added to the liquid to start the alcoholic fermentation process, which converts the sugars to alcohol. In a second fermentation step, the alcohol is converted into vinegar by acetic acid-forming bacteria (Acetobacter species). Acetic acid and malic acid combine to give vinegar its sour taste. Apple cider vinegar has no medicinal or nutritional value. There is no high-quality clinical evidence that regular consumption of apple cider vinegar helps to maintain or lose body weight, or is effective to manage blood glucose and lipid levels.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/apple_cider_vinegar.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "10",
+      "strIngredient": "Asparagus",
+      "strDescription": "Asparagus, or garden asparagus, folk name sparrow grass, scientific name Asparagus officinalis, is a perennial flowering plant species in the genus Asparagus. Its young shoots are used as a spring vegetable.\r\n\r\nIt was once classified in the lily family, like the related Allium species, onions and garlic. However, genetic research places lilies, Allium, and asparagus in three separate families\u2014the Liliaceae, Amaryllidaceae, and Asparagaceae, respectively\u2014with the Amaryllidaceae and Asparagaceae being grouped together in the order Asparagales. Sources differ as to the native range of Asparagus officinalis, but generally include most of Europe and western temperate Asia. It is widely cultivated as a vegetable crop.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/asparagus.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "11",
+      "strIngredient": "Aubergine",
+      "strDescription": "Eggplant (US, Australia), aubergine (UK), or brinjal (South Asia and South Africa) is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit.\r\n\r\nMost commonly purple, the spongy, absorbent fruit is used in various cuisines. Although often considered a vegetable, it is a berry by botanical definition. As a member of the genus Solanum, it is related to tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.\r\n\r\nIt was originally domesticated from the wild nightshade species thorn or bitter apple, S. incanum, probably with two independent domestications: one in South Asia, and one in East Asia.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/aubergine.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "13",
+      "strIngredient": "Baby Plum Tomatoes",
+      "strDescription": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.[3][4] Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico. The Aztecs used tomatoes in their cooking at the time of the Spanish conquest of the Aztec Empire, and after the Spanish encountered the tomato for the first time after their contact with the Aztecs, they brought the plant to Europe. From there, the tomato was introduced to other parts of the European-colonized world during the 16th century.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/baby_plum_tomatoes.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "14",
+      "strIngredient": "Bacon",
+      "strDescription": "Bacon is a type of salt-cured pork. Bacon is prepared from several different cuts of meat, typically from the pork belly or from back cuts, which have less fat than the belly. It is eaten on its own, as a side dish (particularly in breakfasts), or used as a minor ingredient to flavour dishes (e.g., the club sandwich). Bacon is also used for barding and larding roasts, especially game, including venison and pheasant. The word is derived from the Old High German bacho, meaning \"buttock\", \"ham\" or \"side of bacon\", and is cognate with the Old French bacon.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/bacon.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "15",
+      "strIngredient": "Baking Powder",
+      "strDescription": "Baking powder is a dry chemical leavening agent, a mixture of a carbonate or bicarbonate and a weak acid. The base and acid are prevented from reacting prematurely by the inclusion of a buffer such as cornstarch. Baking powder is used to increase the volume and lighten the texture of baked goods. It works by releasing carbon dioxide gas into a batter or dough through an acid-base reaction, causing bubbles in the wet mixture to expand and thus leavening the mixture. The first single-acting baking powder was developed by Birmingham based food manufacturer Alfred Bird in England in 1843. The first double-acting baking powder was developed by Eben Norton Horsford in America in the 1860s.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/baking_powder.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "16",
+      "strIngredient": "Balsamic Vinegar",
+      "strDescription": "Balsamic vinegar (Italian: aceto balsamico), occasionally shortened to balsamic, is a very dark, concentrated, and intensely flavoured vinegar originating in Italy, made wholly or partially from grape must. Grape must is freshly crushed grape juice with all the skins, seeds and stems.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/balsamic_vinegar.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "17",
+      "strIngredient": "Basil",
+      "strDescription": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).\r\n\r\nBasil is native to tropical regions from central Africa to Southeast Asia. It is a tender plant, and is used in cuisines worldwide. Depending on the species and cultivar, the leaves may taste somewhat like anise, with a strong, pungent, often sweet smell.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/basil.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "18",
+      "strIngredient": "Basil Leaves",
+      "strDescription": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).\r\n",
+      "strThumb": "https://www.themealdb.com/images/ingredients/basil_leaves.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "19",
+      "strIngredient": "Basmati Rice",
+      "strDescription": "Basmati is a variety of long, slender-grained aromatic rice which is traditionally from the Indian subcontinent. As of 2018-19, India exported to over 90% of the overseas basmati rice market, while Pakistan accounted for the remainder, according to the Indian state-run Agricultural and Processed Food Products Export Development Authority  and the Pakistan government-run Economic Survey of Pakistan. Many countries use domestically grown basmati rice crops; however, basmati is geographically exclusive to select districts of India, Pakistan, Nepal and Bangladesh.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/basmati_rice.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "20",
+      "strIngredient": "Bay Leaf",
+      "strDescription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/bay_leaf.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "21",
+      "strIngredient": "Bay Leaves",
+      "strDescription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/bay_leaves.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "23",
+      "strIngredient": "Beef Brisket",
+      "strDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.\r\n\r\nMost beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/beef_brisket.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "24",
+      "strIngredient": "Beef Fillet",
+      "strDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.\r\n\r\nMost beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/beef_fillet.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "25",
+      "strIngredient": "Beef Gravy",
+      "strDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.\r\n\r\nMost beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/beef_gravy.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "26",
+      "strIngredient": "Beef Stock",
+      "strDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.\r\n\r\nMost beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/beef_stock.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "27",
+      "strIngredient": "Bicarbonate Of Soda",
+      "strDescription": "Sodium bicarbonate, commonly known as baking soda, is a chemical compound with the formula NaHCO3. It is a salt composed of a sodium cation (Na+) and a bicarbonate anion (HCO3\u2212). Sodium bicarbonate is a white solid that is crystalline, but often appears as a fine powder. It has a slightly salty, alkaline taste resembling that of washing soda (sodium carbonate). The natural mineral form is nahcolite. It is a component of the mineral natron and is found dissolved in many mineral springs.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/bicarbonate_of_soda.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "28",
+      "strIngredient": "Biryani Masala",
+      "strDescription": "Biryani, also known as biriyani, biriani, birani or briyani, is a mixed rice dish with its origins among the Muslims of the Indian subcontinent. It can be compared to mixing a curry, later combining it with semi-cooked rice separately. This dish is especially popular throughout the Indian subcontinent, as well as among the diaspora from the region. It is also prepared in other regions such as Iraqi Kurdistan. It is made with Indian spices, rice, meat (chicken, goat, beef, lamb, prawn, or fish), vegetables or eggs.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/biryani_masala.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "29",
+      "strIngredient": "Black Pepper",
+      "strDescription": "Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm (0.20 in) in diameter and dark red, and contains a single seed, like all drupes. Peppercorns and the ground pepper derived from them may be described simply as pepper, or more precisely as black pepper (cooked and dried unripe fruit), green pepper (dried unripe fruit), or white pepper (ripe fruit seeds).\r\n\r\nBlack pepper is native to present-day Kerala in Southwestern India, and is extensively cultivated there and elsewhere in tropical regions. Vietnam is the world's largest producer and exporter of pepper, producing 34% of the world's crop, as of 2013.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/black_pepper.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "30",
+      "strIngredient": "Black Treacle",
+      "strDescription": "Molasses (American English) or black treacle (British English) is a viscous product resulting from refining sugarcane or sugar beets into sugar. Molasses varies by amount of sugar, method of extraction, and age of plant. Sugarcane molasses is primarily used for sweetening and flavoring foods in the United States, Canada, and elsewhere. Molasses is a defining component of fine commercial brown sugar.\r\n\r\nSweet sorghum syrup may be colloquially called \"sorghum molasses\" in the southern United States.[2][3] Similar products include honey, maple syrup, corn syrup, and invert syrup. Most of these alternative syrups have milder flavors.",
+      "strThumb": "https://www.themealdb.com/images/ingredients/black_treacle.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "31",
+      "strIngredient": "Borlotti Beans",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/borlotti_beans.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "32",
+      "strIngredient": "Bowtie Pasta",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/bowtie_pasta.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "33",
+      "strIngredient": "Bramley Apples",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/bramley_apples.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "34",
+      "strIngredient": "Brandy",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/brandy.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "35",
+      "strIngredient": "Bread",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/bread.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "36",
+      "strIngredient": "Breadcrumbs",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/breadcrumbs.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "37",
+      "strIngredient": "Broccoli",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/broccoli.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "38",
+      "strIngredient": "Brown Lentils",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/brown_lentils.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "39",
+      "strIngredient": "Brown Rice",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/brown_rice.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "40",
+      "strIngredient": "Brown Sugar",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/brown_sugar.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "41",
+      "strIngredient": "Butter",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/butter.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "43",
+      "strIngredient": "Cacao",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cacao.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "44",
+      "strIngredient": "Cajun",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cajun.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "45",
+      "strIngredient": "Canned Tomatoes",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/canned_tomatoes.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "46",
+      "strIngredient": "Cannellini Beans",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cannellini_beans.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "47",
+      "strIngredient": "Cardamom",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cardamom.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "49",
+      "strIngredient": "Carrots",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/carrots.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "50",
+      "strIngredient": "Cashew Nuts",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cashew_nuts.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "51",
+      "strIngredient": "Cashews",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cashews.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "52",
+      "strIngredient": "Caster Sugar",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/caster_sugar.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "53",
+      "strIngredient": "Cayenne Pepper",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/cayenne_pepper.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "54",
+      "strIngredient": "Celeriac",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/celeriac.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "55",
+      "strIngredient": "Celery",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/celery.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "56",
+      "strIngredient": "Celery Salt",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/celery_salt.png",
+      "strType": null
+    },
+    {
+      "idIngredient": "57",
+      "strIngredient": "Challots",
+      "strDescription": null,
+      "strThumb": "https://www.themealdb.com/images/ingredients/challots.png",
+      "strType": null
+    }
+  ]
+}
