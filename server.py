@@ -224,6 +224,7 @@ def handle_client(conn, addr):
         print(f"Error :{e}")
 
     finally: # close the connection when the client disconnects or there is an error
+        print(f"{client_name} disconnected")
         conn.close()
 # start the server
 def start_server():
