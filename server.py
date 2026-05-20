@@ -246,7 +246,7 @@ def start_server():
         # step 4: new thread for each client
         client_thread = threading.Thread(target=handle_client, args=(conn, addr), daemon=True) # use daemon=True to make the thread exit when the main thread exits
         client_thread.start()
-#opp classes
+#oop classes
 #cache class to store the three reference data in memory 
 # load it when the server starts and save it to file for the rest of runtime 
 
